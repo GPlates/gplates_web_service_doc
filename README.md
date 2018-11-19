@@ -1,8 +1,10 @@
-# GPlates Web Service API Reference
+# GPlates Web Service 
+
+## API Reference
 
 Go to the [Wiki](https://github.com/GPlates/gplates_web_service_doc/wiki) for the API reference.
 
-# GPlates Web Service Examples
+## Examples
 
 Examples of how to use the GPlates Web Service
 
