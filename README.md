@@ -1,6 +1,10 @@
-# gws-examples
+# GPlates Web Service API Reference
 
-Examples of how to use the gplates web service
+Go to the [Wiki](https://github.com/GPlates/gplates_web_service_doc/wiki) for the API reference.
+
+# GPlates Web Service Examples
+
+Examples of how to use the GPlates Web Service
 
 ## Contents
 Example code showing how to use the gplates web service to get plate reconstructions directly from http requests, using
