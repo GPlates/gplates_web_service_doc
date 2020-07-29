@@ -10,5 +10,5 @@ proxies = {'http':''}
 
 data={'lon':-70, 'lat':34, 'raster_name':'age_grid'}
 r = requests.get(SERVER_URL+'/raster/query/', params=data, verify=False, proxies=proxies)
-print(r.text)
+print((r.text))
 
