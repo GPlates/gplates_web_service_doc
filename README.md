@@ -1,3 +1,5 @@
+# This repository contains some very old code. Keep it here for now just in case there is still something valuable to scavenge. In the future, if required, this repository can be deleted.
+
 # GPlates Web Service 
 
 ## API Reference
